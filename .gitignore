@@ -1,2 +1,3 @@
 myenv
 simplejwt_token/simplejwt_token/__pycache__/*.pyc
+SimpleJWT_Token/simplejwt_token/token_app/__pycache__/*.pyc
